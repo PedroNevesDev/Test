@@ -1,0 +1,6 @@
+2024/01/18-14:50:52.271 904 Creating DB C:/Users/aluno/Documents/GitHub/Test/PedroNeves/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/18-14:50:52.276 904 Reusing MANIFEST C:/Users/aluno/Documents/GitHub/Test/PedroNeves/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/18-14:52:55.737 904 Level-0 table #5: started
+2024/01/18-14:52:55.739 904 Level-0 table #5: 1167 bytes OK
+2024/01/18-14:52:55.742 904 Delete type=0 #3
+2024/01/18-14:52:55.742 904 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
